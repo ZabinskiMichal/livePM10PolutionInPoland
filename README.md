@@ -1,4 +1,4 @@
-# livePM10PolutionInPoland
+# live PM10 polution in Poland
 
 ## Project created to provide dashboard that presents up-to-date PM10 and PM2.5 dust polution in Poland
 
